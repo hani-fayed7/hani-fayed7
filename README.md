@@ -5,10 +5,13 @@
 <h2>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=5500&color=38CF62&width=435&lines=About+me" alt="Typing SVG" /></a>
 </h2>
-<p>
-<!--Add some About me -->
+<p align=center>
+Hi, I’m Hani Fayed — a Computer Engineer and a tech enthusiast with a passion for software development. I’m a curious coder with aspirations in back-end development, always eager to learn and dive into new technologies. Welcome to my journey in code!
 </p>
-
+<div align="center"> 
+  <a href = "mailto:hani.fayed@outlook.com"><img src="https://img.shields.io/badge/Email-38CF62FF?style=for-the-badge&logo=maildotru&logoColor=%23ffff" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hani-fayed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <hr>
 
 <h2>
