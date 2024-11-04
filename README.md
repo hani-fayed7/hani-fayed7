@@ -71,27 +71,29 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=5500&color=38CF62&width=435&lines=My+Stats" alt="Typing SVG" /></a>
 </h2>
 
-
-<div>
-<!-- Github Stats -->
-  <a href="https://github.com/hani-fayed7/github-readme-stats">
-      <img align="left" width="416" height="167" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
-  </a>
-
-<!-- Github Streak -->
-  <a href="https://git.io/streak-stats">
-      <img  align="right" width="426" src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br><br><br><br><br><br><br>
-
 <!-- Top Languages -->
 <div align="center">
   <a href="https://github.com/hani-fayed7/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hani-fayed7&layout=compact&title_color=38CF62FF&text_color=ffff&bg_color=0e1117&border_color=38CF62FF" alt="Top Languages"/>
   </a>
 </div>
+
+<br>
+
+<div>
+<!-- Github Stats -->
+  <a href="https://github.com/hani-fayed7/github-readme-stats">
+      <img align="left" height="161" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
+  </a>
+
+<!-- Github Streak -->
+  <a href="https://git.io/streak-stats">
+      <img  align="right" width="400" src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
 
 <!-- Add more stats -->
 <!-- <img src="https://profile-counter.glitch.me/hani-fayed7/count.svg" /> -->
