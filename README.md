@@ -48,9 +48,9 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="50" /></a>  
 <a href="https://www.raspberrypi.com/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" height="50" /></a>  
