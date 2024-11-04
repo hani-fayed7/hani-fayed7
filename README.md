@@ -86,6 +86,8 @@
       <img align="left" height="161" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
   </a>
 
+<br>
+
 <!-- Github Streak -->
   <a href="https://git.io/streak-stats">
       <img  align="right" width="400" src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" alt="GitHub Streak" />
