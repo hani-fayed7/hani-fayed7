@@ -40,7 +40,7 @@ Hi, I’m Hani Fayed — a Computer Engineer and a tech enthusiast with a passio
 <h2>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=5500&color=38CF62&width=435&lines=My+Stats" alt="Typing SVG" /></a>
 </h2>
-<div align="center">
+<div>
   <a href="https://github.com/hani-fayed7/github-readme-stats">
       <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hani-fayed7&layout=compact&title_color=38CF62FF&text_color=ffff&bg_color=0e1117&border_color=38CF62FF" alt="Top Languages"/>
   </a>
@@ -48,7 +48,7 @@ Hi, I’m Hani Fayed — a Computer Engineer and a tech enthusiast with a passio
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" alt="GitHub Streak" height="214.5"/>
   </a>
@@ -56,7 +56,7 @@ Hi, I’m Hani Fayed — a Computer Engineer and a tech enthusiast with a passio
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/hani-fayed7/github-readme-stats">
       <img width="544.5" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=9f9f9f&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
   </a>
