@@ -58,7 +58,7 @@ Hi, I’m Hani Fayed — a Computer Engineer and a tech enthusiast with a passio
 
 <div>
   <a href="https://github.com/hani-fayed7/github-readme-stats">
-      <img width="544.5" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=9f9f9f&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
+      <img width="544.5" src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" alt="GitHub Stats"/>
   </a>
 </div>
 
