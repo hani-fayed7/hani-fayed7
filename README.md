@@ -79,8 +79,6 @@
   </a>
 </div>
 
-<br>
-
 <div>
 <!-- Github Stats -->
   <a href="https://github.com/hani-fayed7/github-readme-stats">
