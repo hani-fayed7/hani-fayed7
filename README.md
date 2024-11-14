@@ -73,18 +73,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=5500&color=38CF62&width=435&lines=My+Stats" alt="Typing SVG" /></a>
 </h2>
 
-<div align="left">
+<div align="center">
   <!-- Github Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" height="140" alt="stats graph"  />
 	
    <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hani-fayed7&layout=compact&title_color=38CF62FF&text_color=ffff&bg_color=0e1117&border_color=38CF62FF" height="150" alt="languages graph"  />
   
-  <!-- Github Streak -->
-  <img src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" height="140" alt="stats graph"  />
 </div>
 
-
+  <!-- Github Streak
+  <img src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" height="140" alt="stats graph"  />
+   -->
+   
 <!-- Snake Animation 
 <img src="https://raw.githubusercontent.com/hani-fayed7/hani-fayed7/output/snake.svg" alt="Snake animation" />
 -->
