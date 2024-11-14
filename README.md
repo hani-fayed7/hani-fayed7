@@ -75,7 +75,7 @@
 
 <div align="center">
   <!-- Github Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hani-fayed7&include_all_commits=true&show_icons=true&title_color=38CF62&icon_color=38CF62&text_color=ffff&bg_color=0e1117&border_color=38CF62" height="150" alt="stats graph"  />
 	
    <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hani-fayed7&layout=compact&title_color=38CF62FF&text_color=ffff&bg_color=0e1117&border_color=38CF62FF" height="150" alt="languages graph"  />
@@ -83,7 +83,7 @@
 </div>
 
   <!-- Github Streak
-  <img src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hani-fayed7&theme=github-dark" height="150" alt="stats graph"  />
    -->
    
 <!-- Snake Animation 
