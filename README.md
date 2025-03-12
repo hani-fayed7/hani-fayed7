@@ -48,7 +48,8 @@
 <a href="https://www.laravel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.flask.palletsprojects.com/" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" /></a>  
+<a href="https://www.flask.palletsprojects.com/" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" /></a> 
+<a href="www.selenium.dev" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" height="50" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50" /></a>  
@@ -61,7 +62,9 @@
 <a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" height="50" /></a>  
 <a href="https://www.github.com/" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
+
 </div>
 
 <!-- Pacman -->
