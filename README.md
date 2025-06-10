@@ -41,6 +41,8 @@
 <a href="https://www.html5.org" target="_blank"><img style="margin: 10px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ExpressJS" height="50" /></a>
 <a href="https://www.getbootstrap.com/" target="_blank"><img style="margin: 10px; "  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="50" /></a>  
@@ -55,14 +57,16 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50" /></a>  
 <a href="www.fluter.dev" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>	
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="50" /></a>  
 <a href="https://www.raspberrypi.com/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.git-scm.com/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" height="50" /></a>  
 <a href="https://www.github.com/" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="AzureDevOps" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img style="margin: 10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
 
 </div>
